@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/static/js/main.709b82f6.chunk.js",
+    "main.js.map": "/static/js/main.709b82f6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.41678fa7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.41678fa7.js.map",
+    "static/css/2.a45a525b.chunk.css": "/static/css/2.a45a525b.chunk.css",
+    "static/js/2.329c3ebc.chunk.js": "/static/js/2.329c3ebc.chunk.js",
+    "static/js/2.329c3ebc.chunk.js.map": "/static/js/2.329c3ebc.chunk.js.map",
+    "static/js/3.c573c26f.chunk.js": "/static/js/3.c573c26f.chunk.js",
+    "static/js/3.c573c26f.chunk.js.map": "/static/js/3.c573c26f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.a45a525b.chunk.css.map": "/static/css/2.a45a525b.chunk.css.map",
+    "static/js/2.329c3ebc.chunk.js.LICENSE.txt": "/static/js/2.329c3ebc.chunk.js.LICENSE.txt",
+    "static/media/Spiral_Vatican_Museum.3b5310cc.jpg": "/static/media/Spiral_Vatican_Museum.3b5310cc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41678fa7.js",
+    "static/css/2.a45a525b.chunk.css",
+    "static/js/2.329c3ebc.chunk.js",
+    "static/js/main.709b82f6.chunk.js"
+  ]
+}
